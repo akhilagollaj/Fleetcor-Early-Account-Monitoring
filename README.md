@@ -53,11 +53,13 @@ The data cleaning process was a critical step to ensure the accuracy and reliabi
 ### **Power BI Visuals**  
 - **Risk Indicators**: Identifies high-risk customers.
 
-  ![Risk indicators dashboard](https://github.com/user-attachments/assets/6393f230-903a-4882-88d6-db94ce6ce3dc)
+  ![dashboard2](https://github.com/user-attachments/assets/b27aecf2-f10b-400f-8da2-34f857bff36e)
+  
 
 - **Financial Performance Dashboard**: Compares pre- and post-cross-sell behaviors.  
 
-![financial performance dashboard](https://github.com/user-attachments/assets/ee9c26a4-0d91-468e-b746-7ef1fe4d103a)
+![dashboard1](https://github.com/user-attachments/assets/42309909-0ec8-40bb-8d64-2fe2b53b6d12)
+
 
 ## R Files and Workflow
 The analysis was conducted using R, and the repository includes the following R scripts:
