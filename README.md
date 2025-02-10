@@ -65,7 +65,7 @@ The data cleaning process was a critical step to ensure the accuracy and reliabi
 The analysis was conducted using R, and the repository includes the following R scripts:
 
 1. **Data Cleaning**: The cleaned dataset is provided in the repository 
-   - `Cross-Sell Early Account Monitoring`: The cleaned dataset is provided in the repository
+   - `Cross-Sell Early Account Monitoring.csv`: The cleaned dataset is provided in the repository
     
 2. **Customer Segmentation**:
    - `kmeans_clustering.R`: Performs K-Means clustering to segment customers into three clusters based on financial metrics.
