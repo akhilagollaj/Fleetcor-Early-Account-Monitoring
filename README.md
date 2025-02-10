@@ -79,8 +79,8 @@ The repository includes pre-generated visualizations in the form of **PNG images
 
 - **Financial Performance Dashboard**: Compares pre- and post-cross-sell behaviors.  
 
-  ![dashboard1](https://github.com/user-attachments/assets/42309909-0ec8-40bb-8d64-2fe2b53b6d12)
-
+  ![Overall Financial Performance Dashboard](https://github.com/user-attachments/assets/1c9b9f21-70a4-45d6-b4a5-45eb00588cb8)
+  
 
 ## R Files and Workflow
 The analysis was conducted using R, and the repository includes the following R scripts:
