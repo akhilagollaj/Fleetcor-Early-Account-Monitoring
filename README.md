@@ -58,7 +58,7 @@ The data cleaning process was a critical step to ensure the accuracy and reliabi
 
 - **Financial Performance Dashboard**: Compares pre- and post-cross-sell behaviors.  
 
-![dashboard1](https://github.com/user-attachments/assets/42309909-0ec8-40bb-8d64-2fe2b53b6d12)
+  ![dashboard1](https://github.com/user-attachments/assets/42309909-0ec8-40bb-8d64-2fe2b53b6d12)
 
 
 ## R Files and Workflow
@@ -66,7 +66,7 @@ The analysis was conducted using R, and the repository includes the following R 
 
 1. **Data Cleaning**: The cleaned dataset is provided in the repository 
    - `Cross-Sell Early Account Monitoring`: The cleaned dataset is provided in the repository
-   - 
+    
 2. **Customer Segmentation**:
    - `kmeans_clustering.R`: Performs K-Means clustering to segment customers into three clusters based on financial metrics.
 
@@ -84,11 +84,6 @@ The analysis was conducted using R, and the repository includes the following R 
   
 
 
-## Repository Structure
-- **Data**: Contains the datasets used for analysis.
-- **R_Scripts**: R scripts for data cleaning, modeling, and visualization.
-- **Reports**: Detailed reports and dashboards summarizing the findings.
-- **Outputs**: Contains cleaned datasets, model outputs, and visualizations.
 
 ## How to Use This Repository
 1. **Clone the Repository**:
