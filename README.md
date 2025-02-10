@@ -51,6 +51,27 @@ The data cleaning process was a critical step to ensure the accuracy and reliabi
 
 ## Dashboard Insights  
 ### **Power BI Visuals**  
+The dashboards prepared for this analysis serve as powerful tools for visualizing and interpreting the model’s results. Below are the key features and insights provided by the dashboards:
+
+### **Risk Score Distribution and Influencers**
+- **Pie Chart**: Customers are categorized into **Safe**, **Medium Risk**, and **High Risk** segments, enabling quick identification of high-priority cases.
+- **Key Influencers**: Factors such as high-risk levels, low credit scores, and frequent NSF payments are displayed, helping the company understand what drives risk scores.
+
+### **Delinquency Metrics and Conversion Rates**
+- **Bar Charts**: Delinquency balances are detailed across different lock types and reasons, highlighting areas requiring intervention.
+- **Conversion Rates**: The impact of the Cross-Sell program is quantified by showing conversion rates from Non-Cross-Sell to Cross-Sell customers, demonstrating improvements in financial behavior.
+
+### **Financial Performance Over Time**
+- **Line Charts**: Trends in key financial metrics such as **Total Spend**, **Payment Amounts**, and **Credit Balances** are tracked over time, providing a longitudinal view of customer performance.
+- **Scatterplots and Histograms**: Pre- and post-transition behaviors are compared, offering data-driven insights into the efficacy of the Cross-Sell program.
+
+### Visualizations Included
+The repository includes pre-generated visualizations in the form of **PNG images** stored in the `Visualizations` folder. These include:
+- **Pie Charts**: Risk score distribution.
+- **Bar Charts**: Delinquency metrics and conversion rates.
+- **Line Charts**: Financial performance trends.
+- **Scatterplots and Histograms**: Behavioral comparisons.
+
 - **Risk Indicators**: Identifies high-risk customers.
 
   ![dashboard2](https://github.com/user-attachments/assets/b27aecf2-f10b-400f-8da2-34f857bff36e)
@@ -78,10 +99,6 @@ The analysis was conducted using R, and the repository includes the following R 
 
 5. **Performance Evaluation**:
    - `performance_evaluation.R`: Calculates and compares aggregated performance metrics (e.g., Total Spend, Revenue, Write-Offs) for Cross-Sell and Non Cross-Sell customers.
-
-6. **Visualization**:
-   - `visualizations`: The repository includes pre-generated visualizations in the form of PNG images to explore relationships between variables and present insights. These visualizations include: Bar Charts, Scatterplots, Histograms.
-  
 
 
 
