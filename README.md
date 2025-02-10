@@ -67,10 +67,10 @@ The dashboards prepared for this analysis serve as powerful tools for visualizin
 
 ### Visualizations Included
 The repository includes pre-generated visualizations in the form of **PNG images** stored in the `Visualizations` folder. These include:
-- **Pie Charts**: Risk score distribution.
-- **Bar Charts**: Delinquency metrics and conversion rates.
-- **Line Charts**: Financial performance trends.
-- **Scatterplots and Histograms**: Behavioral comparisons.
+  **Pie Charts**: Risk score distribution.
+  **Bar Charts**: Delinquency metrics and conversion rates.
+  **Line Charts**: Financial performance trends.
+  **Scatterplots and Histograms**: Behavioral comparisons.
 
 - **Risk Indicators**: Identifies high-risk customers.
 
