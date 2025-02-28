@@ -1,7 +1,7 @@
-# Fleetcor Project-3: Cross-Sell Early Account Monitoring
+# Corpay Project: Cross-Sell Early Account Monitoring
 
 ## Overview
-This repository contains the analysis and models developed for Fleetcor's Cross-Sell Early Account Monitoring project. The primary goal of this project is to evaluate the financial performance and risks associated with customers transitioning from Fuel-Only Cards to Universal Cards under the Cross-Sell Program. The analysis aims to identify transaction patterns, key risk indicators, and performance metrics to predict financial distress and evaluate the potential for future cross-sell opportunities.
+This repository contains the analysis and models developed for Corpay's Cross-Sell Early Account Monitoring project. The primary goal of this project is to evaluate the financial performance and risks associated with customers transitioning from Fuel-Only Cards to Universal Cards under the Cross-Sell Program. The analysis aims to identify transaction patterns, key risk indicators, and performance metrics to predict financial distress and evaluate the potential for future cross-sell opportunities.
 
 ## Project Goals
 1. **Performance and Transaction Patterns**: Analyze the financial behaviors of customers transitioning to Universal Cards and identify clusters of customers based on their financial performance.
